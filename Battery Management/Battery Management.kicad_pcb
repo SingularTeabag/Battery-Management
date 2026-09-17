@@ -475,6 +475,17 @@
 			(uuid "274a6714-9d35-425a-8a23-f01a80da731a")
 		)
 		(embedded_fonts no)
+		(model "${USER_COMPONENTS}/MAX17048G_/MAX17048G_.step"
+			(offset
+				(xyz 0 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -90 -0 -0)
+			)
+		)
 	)
 	(footprint "Inductor_SMD:L_APV_ANR4030"
 		(layer "F.Cu")
@@ -908,7 +919,7 @@
 		(uuid "2e7649d4-f1d1-4b4e-9ed8-0914b4205b75")
 		(at 101 64)
 		(property "Reference" "U1"
-			(at 0 -1.5 0)
+			(at 0 -2 0)
 			(layer "F.SilkS")
 			(uuid "23f8c179-e2c4-4c5a-8570-d0482b8854d8")
 			(effects
@@ -1790,6 +1801,17 @@
 			(uuid "66026175-cd60-4b85-b3a2-3561cdc82da6")
 		)
 		(embedded_fonts no)
+		(model "C:/Users/aweso/Documents/KiCad/Components/BQ25185DLHR/BQ25185DLHR.step"
+			(offset
+				(xyz 0 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -90 -0 -0)
+			)
+		)
 	)
 	(footprint "Capacitor_SMD:C_0603_1608Metric"
 		(layer "F.Cu")
@@ -3074,6 +3096,17 @@
 			(uuid "1c4ef62c-fec7-40f8-9180-2c1f8660b662")
 		)
 		(embedded_fonts no)
+		(model "C:/Users/aweso/Documents/KiCad/Components/TPS61023DRLT/TPS61023DRLT.step"
+			(offset
+				(xyz 0 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -90 -0 -0)
+			)
+		)
 	)
 	(footprint "Custom Footprints:Ground Hole"
 		(layer "F.Cu")
@@ -4866,7 +4899,7 @@
 			(uuid "cd794992-dc51-4ee4-ad73-0c8a5f7cd8b8")
 		)
 		(embedded_fonts no)
-		(model "${KICAD10_3DMODEL_DIR}/Connector_USB.3dshapes/USB_C_Receptacle_JAE_DX07S016JA1R1500.step"
+		(model "${USER_COMPONENTS}/DX07S016JA1R1500--3DModel-STEP-269445.STEP"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -4874,7 +4907,7 @@
 				(xyz 1 1 1)
 			)
 			(rotate
-				(xyz 0 0 0)
+				(xyz -90 -0 -0)
 			)
 		)
 	)
