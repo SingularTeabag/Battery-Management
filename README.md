@@ -2,7 +2,7 @@
 A repository to organize my battery management PCBs
 
 ## Single Cell 5 Volt Regulator
->3D Front PCB Image here
+![3D Front PCB Image](Images/Single Cell 5V_3D Front.png)
 
 >3D Back PCB Image here
 #### Chips used
