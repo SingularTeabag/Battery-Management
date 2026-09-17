@@ -1,4 +1,4 @@
-# Battery-Management
+# **Battery-Management**
 A repository to organize my battery management PCBs
 
 ## Single Cell 5 Volt Regulator
